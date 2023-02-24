@@ -23,3 +23,11 @@ export const mobileStart = (props) => {
         }
     `
 }
+
+export const tablet = (props) => {
+    return css`
+        @media only screen and (max-width: 991px){
+            ${props}
+        }
+    `
+}
