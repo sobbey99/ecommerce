@@ -39,3 +39,38 @@ export const categories = [
         title: "LIGHT JACKETS",
     },
 ]
+
+export const popularProducts = [
+    {
+        id: 1,
+        img: "https://images.asos-media.com/products/asos-design-woven-pyjama-set-with-long-sleeve-shirt-and-trousers-in-blue-stripe/203391546-1-blue",
+    },
+    {
+        id: 2,
+        img: "https://images.asos-media.com/products/lacoste-slim-fit-polo-shirt-in-bright-blue/204282473-1-blue",
+    },
+    {
+        id: 3,
+        img: "https://images.asos-media.com/products/adidas-originals-50-years-shorts-in-black/201543353-1-black",
+    },
+    {
+        id: 4,
+        img: "https://images.asos-media.com/groups/boss-bodywear-loungewear-set-in-black-and-white/105473-group-1",
+    },
+    {
+        id: 5,
+        img: "https://images.asos-media.com/groups/calvin-klein-co-ord-lounge-set-grey-cream-check/103098-group-1",
+    },
+    {
+        id: 6,
+        img: "https://images.asos-media.com/products/new-balance-3-pack-logo-crew-socks-in-grey-tie-dye/202826442-1-greytiedye",
+    },
+    {
+        id: 7,
+        img: "https://images.asos-media.com/products/asos-design-knitted-notch-neck-t-shirt-in-khaki/204246960-1-khaki",
+    },
+    {
+        id: 8,
+        img: "https://images.asos-media.com/products/adidas-originals-adicolor-clean-classic-shorts-in-non-dye/201541438-1-beige",
+    },
+]
